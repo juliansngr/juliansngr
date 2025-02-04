@@ -12,6 +12,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQxOXZtbXZ2cHFueWJucHkzeW90OHA0YzF1N3htOTNpM3pwNG9qaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="250px" />
-</p>
+Reworking the tech stack icons:
+
+![Static Badge](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23e34c26)
