@@ -3,11 +3,11 @@
 <br/><br/>
 <p align="center"><strong>I'm working with:</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,webflow,blender,ae,ps,pr" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,webflow,blender,ae,ps,pr" />
 </p>
 <p align="center"><strong>Currently learning:</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nextjs,mongodb" />
 </p>
 
 ---
