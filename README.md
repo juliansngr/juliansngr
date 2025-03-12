@@ -1,24 +1,29 @@
-<h1 align="center">Hi there 👋</h1>
-<p align="center"><strong>I'm Julian, 23 years old and really into tech, programming, music and everything space related ☄️</strong></p>
-<br/><br/>
-<p align="center"><strong>I'm working with:</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,webflow,blender,ae,ps,pr" />
-</p>
-<p align="center"><strong>Currently learning:</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,mongodb" />
-</p>
+# Hi there 👋
+### I'm Julian, 23 years old and really into tech, programming, music and everything space related ☄️
+
+
+I'm working with:
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
+[![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)](#)
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+
+Currently learning:
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 ---
 
-Reworking the tech stack icons:
+Hit me up:
 
-![Static Badge](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23e34c26)
-![Static Badge](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%23264de4)
-![Static Badge](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=%23f0db4f&logoSize=auto&labelColor=%23323330)
-![Static Badge](https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto&labelColor=d36a00)
-
-
-![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto&labelColor=4651c2)
-![Static Badge](https://img.shields.io/badge/Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=white&logoSize=auto&labelColor=18ac4d)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/julian-d%C3%BCrr/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://instagram.com/julian.sngr)
