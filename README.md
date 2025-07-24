@@ -19,6 +19,8 @@ I'm working with:
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
 [![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)](#)
 
+[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff)](#)
+[![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)](#)
 ---
 
 Hit me up:
